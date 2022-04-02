@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(66, 66, 66);
+}
+#map{
+    height:600px;
+    width:100%;
+}
+#title{
+    color: white;
+    text-align: center;
+}
